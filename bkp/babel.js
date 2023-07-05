@@ -1,0 +1,2 @@
+// BABEL CLI E BABEL PRESET ENV -> PRESET ENV PREPARA O SCRIPT PARA INDEPENDENTE DO AMBIENTE (MOBILE ETC), BAbBEL CORE, BABEL LOADER
+// .babelrc => informar ao babel os presets do js (transpilar)
